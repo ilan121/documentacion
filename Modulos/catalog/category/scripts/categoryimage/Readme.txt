@@ -5,3 +5,5 @@ Se debe definir el:
 	Image Field en Minuscula
 
 Se ejecuta desde la consola, con el comando ./run.sh
+
+by Gamba
